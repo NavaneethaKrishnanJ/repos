@@ -1,0 +1,17 @@
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\BusniessService.deps.json
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\BusniessService.dll
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\BusniessService.pdb
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\Models.dll
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\Repos.dll
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\Models.pdb
+C:\Users\kavya\source\repos\BusniessService\bin\Debug\net8.0\Repos.pdb
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.csproj.AssemblyReference.cache
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.AssemblyInfoInputs.cache
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.AssemblyInfo.cs
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.csproj.CoreCompileInputs.cache
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\Busniess.C025DB0C.Up2Date
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.dll
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\refint\BusniessService.dll
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\BusniessService.pdb
+C:\Users\kavya\source\repos\BusniessService\obj\Debug\net8.0\ref\BusniessService.dll
